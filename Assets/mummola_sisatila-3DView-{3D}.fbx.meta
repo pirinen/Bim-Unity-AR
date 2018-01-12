@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: f5238340f80bac348acac9839baed78c
+timeCreated: 1503310933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1451 1451 [278693]
+    100002: 158150 158150 [278758]
+    100004: 161770 161770 [278779]
+    100006: 165390 165390 [278800]
+    100008: 169010 169010 [278821]
+    100010: 172630 172630 [278842]
+    100012: 17277 17277 [278736]
+    100014: 17277 17277 [278736]_MeshPart0
+    100016: 17277 17277 [278736]_MeshPart1
+    100018: 1870 1870 [278701]
+    100020: 270625 270625 [278850]
+    100022: 272861 272861 [278864]
+    100024: 275097 275097 [278878]
+    100026: 277333 277333 [278892]
+    100028: 282672 282672 [278900]
+    100030: 284908 284908 [278914]
+    100032: 3567 3567 [278715]
+    100034: '3D View: {3D}'
+    100036: 47 47 [278683]
+    100038: 6370 6370 [278728]
+    100040: //RootNode
+    100042: Object 293395 Object 293395 [278941]
+    100044: Object 293579 Object 293579 [278986]
+    100046: Object 363173 Object 363173 [279189]
+    100048: Object 363173 Object 363173 [279189]_[279183]
+    100050: Object 365962 Object 365962 [279219]
+    100052: Object 366003 Object 366003 [279234]
+    100054: Object 366167 Object 366167 [279242]
+    100056: Object 366331 Object 366331 [279250]
+    100058: Object 366495 Object 366495 [279258]
+    100060: Object Object [278922]
+    400000: 1451 1451 [278693]
+    400002: 158150 158150 [278758]
+    400004: 161770 161770 [278779]
+    400006: 165390 165390 [278800]
+    400008: 169010 169010 [278821]
+    400010: 172630 172630 [278842]
+    400012: 17277 17277 [278736]
+    400014: 17277 17277 [278736]_MeshPart0
+    400016: 17277 17277 [278736]_MeshPart1
+    400018: 1870 1870 [278701]
+    400020: 270625 270625 [278850]
+    400022: 272861 272861 [278864]
+    400024: 275097 275097 [278878]
+    400026: 277333 277333 [278892]
+    400028: 282672 282672 [278900]
+    400030: 284908 284908 [278914]
+    400032: 3567 3567 [278715]
+    400034: '3D View: {3D}'
+    400036: 47 47 [278683]
+    400038: 6370 6370 [278728]
+    400040: //RootNode
+    400042: Object 293395 Object 293395 [278941]
+    400044: Object 293579 Object 293579 [278986]
+    400046: Object 363173 Object 363173 [279189]
+    400048: Object 363173 Object 363173 [279189]_[279183]
+    400050: Object 365962 Object 365962 [279219]
+    400052: Object 366003 Object 366003 [279234]
+    400054: Object 366167 Object 366167 [279242]
+    400056: Object 366331 Object 366331 [279250]
+    400058: Object 366495 Object 366495 [279258]
+    400060: Object Object [278922]
+    2300000: 1451 1451 [278693]
+    2300002: 158150 158150 [278758]
+    2300004: 161770 161770 [278779]
+    2300006: 165390 165390 [278800]
+    2300008: 169010 169010 [278821]
+    2300010: 172630 172630 [278842]
+    2300012: 17277 17277 [278736]_MeshPart0
+    2300014: 17277 17277 [278736]_MeshPart1
+    2300016: 1870 1870 [278701]
+    2300018: 270625 270625 [278850]
+    2300020: 272861 272861 [278864]
+    2300022: 275097 275097 [278878]
+    2300024: 277333 277333 [278892]
+    2300026: 282672 282672 [278900]
+    2300028: 284908 284908 [278914]
+    2300030: 3567 3567 [278715]
+    2300032: 47 47 [278683]
+    2300034: 6370 6370 [278728]
+    2300036: Object 293395 Object 293395 [278941]
+    2300038: Object 293579 Object 293579 [278986]
+    2300040: Object 363173 Object 363173 [279189]
+    2300042: Object 363173 Object 363173 [279189]_[279183]
+    2300044: Object 365962 Object 365962 [279219]
+    2300046: Object 366003 Object 366003 [279234]
+    2300048: Object 366167 Object 366167 [279242]
+    2300050: Object 366331 Object 366331 [279250]
+    2300052: Object 366495 Object 366495 [279258]
+    2300054: Object Object [278922]
+    3300000: 1451 1451 [278693]
+    3300002: 158150 158150 [278758]
+    3300004: 161770 161770 [278779]
+    3300006: 165390 165390 [278800]
+    3300008: 169010 169010 [278821]
+    3300010: 172630 172630 [278842]
+    3300012: 17277 17277 [278736]_MeshPart0
+    3300014: 17277 17277 [278736]_MeshPart1
+    3300016: 1870 1870 [278701]
+    3300018: 270625 270625 [278850]
+    3300020: 272861 272861 [278864]
+    3300022: 275097 275097 [278878]
+    3300024: 277333 277333 [278892]
+    3300026: 282672 282672 [278900]
+    3300028: 284908 284908 [278914]
+    3300030: 3567 3567 [278715]
+    3300032: 47 47 [278683]
+    3300034: 6370 6370 [278728]
+    3300036: Object 293395 Object 293395 [278941]
+    3300038: Object 293579 Object 293579 [278986]
+    3300040: Object 363173 Object 363173 [279189]
+    3300042: Object 363173 Object 363173 [279189]_[279183]
+    3300044: Object 365962 Object 365962 [279219]
+    3300046: Object 366003 Object 366003 [279234]
+    3300048: Object 366167 Object 366167 [279242]
+    3300050: Object 366331 Object 366331 [279250]
+    3300052: Object 366495 Object 366495 [279258]
+    3300054: Object Object [278922]
+    4300000: 47 47 [278683]
+    4300002: 1451 1451 [278693]
+    4300004: 1870 1870 [278701]
+    4300006: 3567 3567 [278715]
+    4300008: 6370 6370 [278728]
+    4300010: 17277 17277 [278736]_MeshPart0
+    4300012: 17277 17277 [278736]_MeshPart1
+    4300014: 158150 158150 [278758]
+    4300016: 161770 161770 [278779]
+    4300018: 165390 165390 [278800]
+    4300020: 169010 169010 [278821]
+    4300022: 172630 172630 [278842]
+    4300024: 270625 270625 [278850]
+    4300026: 272861 272861 [278864]
+    4300028: 275097 275097 [278878]
+    4300030: 277333 277333 [278892]
+    4300032: 282672 282672 [278900]
+    4300034: 284908 284908 [278914]
+    4300036: Object Object [278922]
+    4300038: Object 293395 Object 293395 [278941]
+    4300040: Object 293579 Object 293579 [278986]
+    4300042: Object 363173 Object 363173 [279189]
+    4300044: Object 363173 Object 363173 [279189]_[279183]
+    4300046: Object 365962 Object 365962 [279219]
+    4300048: Object 366003 Object 366003 [279234]
+    4300050: Object 366167 Object 366167 [279242]
+    4300052: Object 366331 Object 366331 [279250]
+    4300054: Object 366495 Object 366495 [279258]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
