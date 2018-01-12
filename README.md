@@ -5,5 +5,3 @@ Raspberry get temperature and humidity from sensor.
 Sends them to ThingWorx where Unity AR-application (Vuforia based)
 gets values and show them on UI. Unity house model was created some CAD-program and was 
 type .ifc before importing it to Unity. 
-
-[[https://github.com/pirinen/Bim-Unity-AR/pic1.png]]
